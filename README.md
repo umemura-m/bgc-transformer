@@ -66,6 +66,7 @@ GPU acceleration (CUDA) is recommended for model training but not required for t
 
 Repository Structure
 ---------------------
+```text
 bgc-transformer/
 ├── README.md                  # Overview and usage instructions
 ├── codes/

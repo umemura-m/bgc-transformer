@@ -22,16 +22,16 @@ Generative application: Facilitates exploration of model-guided BGC design and m
 
 How to Run
 -----------
-## Check the codes and modify file paths if required ##
+- Check the codes and modify file paths if required
 1. Prepare input
-# Provide, for each genome, a genomic GFF and a domain search output file (HMMer) placed together in a subdirectory under target_dir (an example directory: data/dir_raw_sample/).
+* Provide, for each genome, a genomic GFF and a domain search output file (HMMer) placed together in a subdirectory under target_dir (an example directory: data/dir_raw_sample/).
 
 python 01_prepare_input.py -i _target_dir_
 
 
 2. Split data safely
-# Provide a list of paths to the domain token files generated in Step 1 (absolute paths are recommended).
-# Execute Steps 2/3/4 in the same directory.
+* Provide a list of paths to the domain token files generated in Step 1 (absolute paths are recommended).
+* Execute Steps 2/3/4 in the same directory.
 
 python 02_leakage_safe_split_bgc.py --file-list _corpus_filelist.out_ --target _name_ --train-ratio 0.8 --block-size 512 --ngram 6 --num-perm 128 --bands 32 --jaccard-thresh 0.80 --max-bucket 200 --seed 42
 
@@ -42,12 +42,12 @@ python 03_pretokenize_indices.py --target _name_ --vocab-json _vocab.json_
 
 
 4. Train a model
-# Require pretoken_memmap_dataset.py (provided with codes).
+* Require pretoken_memmap_dataset.py (provided with codes).
 
 python 04_pretraining.py --target _name_ --vocab-json _vocab.json_ --epochs 100 --save-every 10
 
 5. Predict every domain in _input-file_ using a trained model
-# Output: every_domain_prediction._name_.csv
+* Output: every_domain_prediction._name_.csv
 
 python 05_every_domain_prediction.py --vocab-json _vocab.json_ --ckpt-dir _checkpoint-dir_ --title _name_ --input-file _file_to_predict_ --max-len 512
 
@@ -55,7 +55,7 @@ python 05_every_domain_prediction.py --vocab-json _vocab.json_ --ckpt-dir _check
 
 python 06_mask_domain_prediction.py --vocab-json _vocab.json_ --ckpt-dir _checkpoint-dir_ --title _name_ --input-file _file_to_generate_ --max-len 512
 
-# All data including processed genome data, models, and other additional materials is available on Zenodo (https://doi.org/10.5281/zenodo.17577731) with the same directory structure.
+* All data including processed genome data, models, and other additional materials is available on Zenodo (https://doi.org/10.5281/zenodo.17577731) with the same directory structure.
 
 
 Requirements

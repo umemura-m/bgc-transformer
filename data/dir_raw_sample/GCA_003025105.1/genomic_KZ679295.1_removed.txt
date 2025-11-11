@@ -1,0 +1,1 @@
+ABC_toxin_N Neuraminidase TcA_TcB_BD Neuraminidase [SEP] SpvB TcdB_toxin_midN TcdB_toxin_midN TcdB_toxin_midN TcdB_toxin_midN TcdB_toxin_midN TcdB_toxin_midC SpvB SpvB [SEP]

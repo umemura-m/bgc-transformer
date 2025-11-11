@@ -1,0 +1,1 @@
+ELO [SEP] CRAL_TRIO [SEP] ABC_tran ABC2_membrane_7 ABC2_membrane [SEP] MBOAT_2 MBOAT_2 [SEP] p450 [SEP] CFEM [SEP]

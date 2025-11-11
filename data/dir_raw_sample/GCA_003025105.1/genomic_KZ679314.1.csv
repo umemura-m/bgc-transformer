@@ -1,0 +1,13 @@
+ProteinID,ChrID,Product,Start_Position,End_Position,Strand,Domain_Name,Domain_ID,E_Value,C_EValue,I_EValue,HMM_Coord_From,HMM_Coord_To,Ali_Coord_From,Ali_Coord_To,Env_Coord_From,Env_Coord_To,Accuracy
+PTB34727.1,KZ679314.1,hypothetical protein,3393,4136,-,ADH_zinc_N_2,PF13602.9,3.5e-26,6.3e-30,6.2e-26,1,133,107,242,107,242,0.92
+PTB34727.1,KZ679314.1,hypothetical protein,3393,4136,-,ADH_zinc_N,PF00107.29,4.6e-15,8.6e-19,8.5e-15,4,85,78,154,75,164,0.90
+PTB34728.1,KZ679314.1,hypothetical protein,6597,6612,+,Fungal_trans_2,PF11951.11,1.5e-25,4.6e-19,9e-15,2,139,2,136,1,150,0.86
+PTB34728.1,KZ679314.1,hypothetical protein,6597,6612,+,Fungal_trans_2,PF11951.11,1.5e-25,9.1e-13,1.8e-08,259,375,173,299,147,308,0.80
+PTB34728.1,KZ679314.1,hypothetical protein,6676,7102,+,Fungal_trans_2,PF11951.11,1.5e-25,4.6e-19,9e-15,2,139,2,136,1,150,0.86
+PTB34728.1,KZ679314.1,hypothetical protein,6676,7102,+,Fungal_trans_2,PF11951.11,1.5e-25,9.1e-13,1.8e-08,259,375,173,299,147,308,0.80
+PTB34728.1,KZ679314.1,hypothetical protein,7156,7648,+,Fungal_trans_2,PF11951.11,1.5e-25,4.6e-19,9e-15,2,139,2,136,1,150,0.86
+PTB34728.1,KZ679314.1,hypothetical protein,7156,7648,+,Fungal_trans_2,PF11951.11,1.5e-25,9.1e-13,1.8e-08,259,375,173,299,147,308,0.80
+PTB34729.1,KZ679314.1,hypothetical protein,8663,8863,-,SnoaL,PF07366.15,3.1e-26,3.9e-30,3.8e-26,3,126,18,152,16,152,0.92
+PTB34729.1,KZ679314.1,hypothetical protein,8663,8863,-,SnoaL_2,PF12680.10,4.1e-15,5.3e-19,5.2e-15,4,101,21,138,18,139,0.92
+PTB34729.1,KZ679314.1,hypothetical protein,8302,8589,-,SnoaL,PF07366.15,3.1e-26,3.9e-30,3.8e-26,3,126,18,152,16,152,0.92
+PTB34729.1,KZ679314.1,hypothetical protein,8302,8589,-,SnoaL_2,PF12680.10,4.1e-15,5.3e-19,5.2e-15,4,101,21,138,18,139,0.92

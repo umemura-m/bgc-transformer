@@ -1,0 +1,1 @@
+adh_short_C2 [SEP] Aldo_ket_red [SEP] Fungal_trans [SEP] FAD_binding_3 [SEP] Beta-lactamase [SEP] Isochorismatase [SEP] Ank_5 Ank_5 [SEP]

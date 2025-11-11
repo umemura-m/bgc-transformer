@@ -1,0 +1,27 @@
+High confusion pairs:
+#                         true              pred     value
+78              isocyanide-nrp              nrps  0.500000
+297                       2dos             t1pks  0.347826
+316              aminocoumarin             t1pks  0.428571
+341                      napaa         nrps-like  0.441678
+390                 epipeptide         nrps-like  0.357143
+439                  phenazine  nrp-metallophore  0.362445
+554             guanidinotides             t3pks  0.307692
+560                bottromycin             t3pks  0.500000
+679                 resorcinol       arylpolyene  0.473088
+720               lipolanthine       arylpolyene  0.428571
+727                pyrrolidine       arylpolyene  0.333333
+1124               spliceotide    rre-containing  0.500000
+1744          transat-pks-like       transat-pks  0.425926
+2717                    indole             t2pks  0.342342
+2752               pyrrolidine             t2pks  0.666667
+3224       tropodithietic-acid  acyl-amino-acids  0.312500
+3226             methanobactin  acyl-amino-acids  0.428571
+3228                   ppys-ks  acyl-amino-acids  0.545455
+3239                      pbde  acyl-amino-acids  0.500000
+4181  aminopolycarboxylic-acid     thioamide-nrp  0.924242
+4199            guanidinotides     thioamide-nrp  0.307692
+4853               bottromycin  phosphonate-like  0.500000
+Wrong hybrid predictions / high-confusion pairs: 88 / 5775
+  A) With reverse confusion present within same base: 0
+  B) With 'pred' present as true within same base:   44

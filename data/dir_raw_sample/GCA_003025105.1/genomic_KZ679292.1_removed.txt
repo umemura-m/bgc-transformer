@@ -1,0 +1,1 @@
+DDHD DDHD DDHD [SEP] DEAD_2 DEAD_2 HBB Helicase_C_2 [SEP] CDP-OH_P_transf [SEP] Ribosomal_S10 [SEP] Ribosomal_L29e [SEP] Fcf2 [SEP] Histone Histone [SEP] Sec15 Sec15 [SEP] RasGAP RasGAP RasGAP [SEP]

@@ -1,0 +1,9 @@
+#!/bin/bash -u
+
+./06_mask_domain_prediction.py \
+  --vocab-json ../models/vocab_pfam_product_hmmer33.json \
+  --ckpt-dir ../models/model_IV_roberta_bacfun/out.bacfun \
+  --title bacfun \
+  --input-file ../data/cyclooctatin.txt \
+  --max-len 512 
+

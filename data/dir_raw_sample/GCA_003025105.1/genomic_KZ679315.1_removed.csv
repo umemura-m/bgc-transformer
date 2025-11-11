@@ -1,0 +1,4 @@
+ProteinID,ChrID,Product,Start_Position,End_Position,Strand,Domain_Name,Domain_ID,E_Value,C_EValue,I_EValue,HMM_Coord_From,HMM_Coord_To,Ali_Coord_From,Ali_Coord_To,Env_Coord_From,Env_Coord_To,Accuracy
+PTB34724.1,KZ679315.1,hypothetical protein,5325,6370,-,FAD_binding_4,PF01565.26,1.0e-17,5.2e-22,1.0e-17,1,137,76,211,76,213,9.7e-01
+PTB34724.1,KZ679315.1,hypothetical protein,5325,6370,-,FAD_binding_4,PF01565.26,1.0e-17,6.5e-01,1.3e+04,95,115,282,301,277,307,7.5e-01
+PTB34724.1,KZ679315.1,hypothetical protein,5325,6370,-,FAD_binding_4,PF01565.26,1.0e-17,1.8e-01,3.6e+03,88,113,445,470,435,475,7.3e-01

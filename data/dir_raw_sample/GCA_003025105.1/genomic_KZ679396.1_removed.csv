@@ -1,0 +1,2 @@
+ProteinID,ChrID,Product,Start_Position,End_Position,Strand,Domain_Name,Domain_ID,E_Value,C_EValue,I_EValue,HMM_Coord_From,HMM_Coord_To,Ali_Coord_From,Ali_Coord_To,Env_Coord_From,Env_Coord_To,Accuracy
+PTB34694.1,KZ679396.1,hypothetical protein,941,1129,-,Dimer_Tnp_hAT,PF05699.17,1.7e-17,9.1e-22,1.8e-17,23,83,1,61,1,62,9.7e-01

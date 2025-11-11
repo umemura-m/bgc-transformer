@@ -1,0 +1,8 @@
+ProteinID,ChrID,Product,Start_Position,End_Position,Strand,Domain_Name,Domain_ID,E_Value,C_EValue,I_EValue,HMM_Coord_From,HMM_Coord_To,Ali_Coord_From,Ali_Coord_To,Env_Coord_From,Env_Coord_To,Accuracy
+PTB34878.1,KZ679290.1,hypothetical protein,11598,12225,+,HET,PF06985.14,9.6e-31,1.1e-34,2.2e-30,1,146,46,236,46,236,9.1e-01
+PTB34880.1,KZ679290.1,hypothetical protein,20256,20399,-,Fungal_trans,PF04082.21,2.3e-22,2.1e-26,4.1e-22,3,266,258,506,257,507,8.6e-01
+PTB34881.1,KZ679290.1,hypothetical protein,20921,20939,+,Dabb,PF07876.15,1.3e-11,9.7e-16,1.9e-11,3,97,5,103,3,103,8.2e-01
+PTB34882.1,KZ679290.1,hypothetical protein,22632,22895,-,Ldh_2,PF02615.17,8.1e-125,4.7e-129,9.2e-125,3,332,15,342,13,343,9.8e-01
+PTB34883.1,KZ679290.1,hypothetical protein,23425,24231,-,adh_short_C2,PF13561.9,2.5e-60,3.2e-64,3.1e-60,4,234,22,262,19,262,9.3e-01
+PTB34884.1,KZ679290.1,hypothetical protein,24494,24923,+,ILVD_EDD,PF00920.24,1.1e-159,6.4e-164,1.3e-159,1,516,62,601,62,601,9.3e-01
+PTB34886.1,KZ679290.1,hypothetical protein,29513,29641,+,Fungal_trans,PF04082.21,5.1e-11,4.3e-15,8.4e-11,78,184,321,420,279,436,8.8e-01

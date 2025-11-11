@@ -1,0 +1,4 @@
+ProteinID,ChrID,Product,Start_Position,End_Position,Strand,Domain_Name,Domain_ID,E_Value,C_EValue,I_EValue,HMM_Coord_From,HMM_Coord_To,Ali_Coord_From,Ali_Coord_To,Env_Coord_From,Env_Coord_To,Accuracy
+PTB34734.1,KZ679312.1,hypothetical protein,6128,6159,-,AOX,PF01786.20,1.6e-94,9.3e-99,1.8e-94,1,216,12,241,12,241,9.8e-01
+PTB34736.1,KZ679312.1,hypothetical protein,10715,10978,-,3HCDH_N,PF02737.21,2.6e-42,1.6e-45,3.2e-41,1,178,7,182,7,185,9.4e-01
+PTB34736.1,KZ679312.1,hypothetical protein,10715,10978,-,3HCDH_N,PF02737.21,2.6e-42,1.3e-02,2.5e+02,27,73,265,314,236,318,5.7e-01

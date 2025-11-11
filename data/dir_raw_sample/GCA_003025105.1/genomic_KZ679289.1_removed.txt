@@ -1,0 +1,1 @@
+ABC_membrane ABC_tran ABC_membrane ABC_tran [SEP] MFS_1 MFS_1 [SEP] Ank_4 Ank_4 [SEP] Mito_carr Mito_carr Mito_carr [SEP] Fungal_trans [SEP] PrpF [SEP] Sugar_tr [SEP] Methyltransf_3 [SEP]

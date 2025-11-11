@@ -1,0 +1,7 @@
+#!/bin/bash -u
+
+./B03_stats_per_domain.py \
+  --ifile ../../../models/model_IV_roberta_bacfun/every_domain_prediction.bacfun.csv \
+  --tdir ../../../models/model_IV_roberta_bacfun/indices.bacfun \
+  --efile ../../../data/MIBiG_domain_list.txt 
+

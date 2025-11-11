@@ -1,0 +1,1 @@
+DUF4112 [SEP] DCP2 NUDIX [SEP] Ceramidase Ceramidase [SEP] E1-E2_ATPase E1-E2_ATPase E1-E2_ATPase Cation_ATPase Cation_ATPase_C [SEP] AA9 [SEP] bZIP_1 [SEP]

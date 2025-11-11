@@ -1,0 +1,1 @@
+adh_short adh_short [SEP] ABC_tran ABC2_membrane ABC2_membrane ABC_tran ABC2_membrane PDR_CDR [SEP] Beta-lactamase [SEP] adh_short [SEP] Fungal_trans Fungal_trans [SEP] tRNA-synt_1 Anticodon_1 tRNA-synt_1_2 [SEP] Sugar_tr [SEP] ABM [SEP] GLEYA GLEYA GLEYA GLEYA [SEP]

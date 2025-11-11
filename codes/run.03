@@ -1,0 +1,6 @@
+#!/bin/bash -u
+
+./03_pretokenize_indices.py \
+  --target bacfun \
+  --vocab-json ../models/vocab_pfam_product_hmmer33.json 
+

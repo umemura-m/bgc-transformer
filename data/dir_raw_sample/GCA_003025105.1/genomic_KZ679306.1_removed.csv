@@ -1,0 +1,3 @@
+ProteinID,ChrID,Product,Start_Position,End_Position,Strand,Domain_Name,Domain_ID,E_Value,C_EValue,I_EValue,HMM_Coord_From,HMM_Coord_To,Ali_Coord_From,Ali_Coord_To,Env_Coord_From,Env_Coord_To,Accuracy
+PTB34747.1,KZ679306.1,hypothetical protein,8025,8207,+,Aldo_ket_red,PF00248.24,6.1e-28,1.1e-14,2.1e-10,41,123,5,82,4,83,8.8e-01
+PTB34747.1,KZ679306.1,hypothetical protein,8025,8207,+,Aldo_ket_red,PF00248.24,6.1e-28,1.7e-19,3.3e-15,163,292,84,223,81,223,9.2e-01

@@ -1,0 +1,9 @@
+ProteinID,ChrID,Product,Start_Position,End_Position,Strand,Domain_Name,Domain_ID,E_Value,C_EValue,I_EValue,HMM_Coord_From,HMM_Coord_To,Ali_Coord_From,Ali_Coord_To,Env_Coord_From,Env_Coord_To,Accuracy
+PTB34792.1,KZ679297.1,hypothetical protein,7692,8471,+,adh_short_C2,PF13561.9,1.5e-53,2.9e-57,1.9e-53,4,233,22,257,17,258,9.4e-01
+PTB34793.1,KZ679297.1,hypothetical protein,11312,11445,-,Aldo_ket_red,PF00248.24,2.6e-64,1.6e-68,3.2e-64,2,289,43,356,42,358,9.4e-01
+PTB34794.1,KZ679297.1,hypothetical protein,13159,13385,+,Fungal_trans,PF04082.21,1.1e-31,9.3e-36,1.8e-31,3,258,239,485,237,493,8.5e-01
+PTB34795.1,KZ679297.1,hypothetical protein,16702,17367,+,FAD_binding_3,PF01494.22,2.0e-19,1.1e-22,2.1e-18,2,348,7,373,6,374,7.3e-01
+PTB34796.1,KZ679297.1,hypothetical protein,18669,19268,-,Beta-lactamase,PF00144.27,9.6e-33,5.7e-37,1.1e-32,14,177,29,192,18,194,9.3e-01
+PTB34800.1,KZ679297.1,hypothetical protein,24214,24279,-,Isochorismatase,PF00857.23,1.6e-21,1.7e-25,3.4e-21,2,172,15,165,14,167,8.7e-01
+PTB34801.1,KZ679297.1,hypothetical protein,25323,25619,-,Ank_5,PF13857.9,2.0e-18,2.5e-09,9.6e-06,16,56,1,42,1,42,9.7e-01
+PTB34801.1,KZ679297.1,hypothetical protein,25323,25619,-,Ank_5,PF13857.9,2.0e-18,3.2e-07,1.3e-03,1,36,54,89,54,95,9.2e-01

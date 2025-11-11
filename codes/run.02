@@ -1,0 +1,14 @@
+#!/bin/bash -u
+
+./02_leakage_safe_split.py \
+  --file-list ../data/genome_corpus_filelist.out \
+  --target bacfun \
+  --train-ratio 0.8 \
+  --block-size 512 \
+  --ngram 6 \
+  --num-perm 128 \
+  --bands 32 \
+  --jaccard-thresh 0.80 \
+  --max-bucket 200 \
+  --seed 42 
+

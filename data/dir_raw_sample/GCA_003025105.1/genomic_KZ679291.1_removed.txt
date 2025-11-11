@@ -1,0 +1,1 @@
+Peptidase_M3 [SEP] Pro-kuma_activ [SEP] Asp [SEP] Ank_2 [SEP] Abhydrolase_3 [SEP] Lactamase_B [SEP]

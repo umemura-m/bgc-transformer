@@ -1,0 +1,7 @@
+#!/bin/bash -u
+
+./B01_leakage_analysis.py \
+  --target bacfun \
+  --no_idx_exist \
+  --input_file ../../../data/MIBiG_domain_list.txt 
+

@@ -1,0 +1,10 @@
+#!/bin/bash -u
+
+set -euo pipefail
+
+./C02_save_embnpy.py \
+  --title bacfun \
+  --dfile o01.mibig_bgcs.dname.csv \
+  --vjson ../../../models/vocab_pfam_product_hmmer33.json \
+  --ckdir ../../../models/model_IV_roberta_bacfun/out.bacfun
+

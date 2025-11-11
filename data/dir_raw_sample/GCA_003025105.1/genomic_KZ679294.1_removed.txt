@@ -1,0 +1,1 @@
+adh_short_C2 [SEP] Gpr1_Fun34_YaaH [SEP] Fungal_trans [SEP] ADH_zinc_N [SEP] RTA1 RTA1 [SEP] MARVEL [SEP]

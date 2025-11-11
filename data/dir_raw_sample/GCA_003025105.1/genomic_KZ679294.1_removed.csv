@@ -1,0 +1,8 @@
+ProteinID,ChrID,Product,Start_Position,End_Position,Strand,Domain_Name,Domain_ID,E_Value,C_EValue,I_EValue,HMM_Coord_From,HMM_Coord_To,Ali_Coord_From,Ali_Coord_To,Env_Coord_From,Env_Coord_To,Accuracy
+PTB34823.1,KZ679294.1,hypothetical protein,11535,11987,+,adh_short_C2,PF13561.9,4.8e-31,5.6e-35,5.5e-31,99,234,2,149,1,149,9.1e-01
+PTB34824.1,KZ679294.1,hypothetical protein,15481,15591,+,Gpr1_Fun34_YaaH,PF01184.22,1.2e-39,7.5e-44,1.5e-39,16,191,33,215,20,226,9.4e-01
+PTB34827.1,KZ679294.1,hypothetical protein,23912,23945,-,Fungal_trans,PF04082.21,3.4e-17,3.2e-21,6.3e-17,1,266,183,429,183,435,8.2e-01
+PTB34828.1,KZ679294.1,hypothetical protein,26714,26837,+,ADH_zinc_N,PF00107.29,8.0e-27,1.6e-30,1.5e-26,1,124,181,307,181,313,9.0e-01
+PTB34830.1,KZ679294.1,hypothetical protein,31692,31757,-,RTA1,PF04479.16,3.5e-36,6.8e-01,1.3e+04,29,36,57,64,50,71,4.3e-01
+PTB34830.1,KZ679294.1,hypothetical protein,31692,31757,-,RTA1,PF04479.16,3.5e-36,4.2e-09,8.2e-05,1,34,84,116,84,118,9.3e-01
+PTB34831.1,KZ679294.1,hypothetical protein,32247,32337,+,MARVEL,PF01284.26,6.7e-24,4.2e-28,8.3e-24,6,143,10,149,6,150,9.2e-01

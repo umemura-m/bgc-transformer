@@ -1,0 +1,1 @@
+FAD_binding_4 [SEP] Fungal_trans [SEP] Fungal_trans [SEP] adh_short [SEP] NmrA [SEP] Fungal_trans_2 Fungal_trans_2 [SEP] NmrA [SEP] FAD_binding_3 FAD_binding_3 [SEP] AP_endonuc_2 [SEP] Fungal_trans [SEP] MFS_1 [SEP]

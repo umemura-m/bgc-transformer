@@ -1,0 +1,2 @@
+ProteinID,ChrID,Product,Start_Position,End_Position,Strand,Domain_Name,Domain_ID,E_Value,C_EValue,I_EValue,HMM_Coord_From,HMM_Coord_To,Ali_Coord_From,Ali_Coord_To,Env_Coord_From,Env_Coord_To,Accuracy
+PTB34722.1,KZ679316.1,hypothetical protein,4789,5463,-,2OG-FeII_Oxy_2,PF13532.9,5.7e-13,9.6e-17,1.9e-12,55,194,56,186,16,186,0.79

@@ -1,0 +1,1 @@
+ADH_zinc_N_2 [SEP] Fungal_trans_2 Fungal_trans_2 [SEP] SnoaL [SEP]

@@ -1,0 +1,1 @@
+HET [SEP] Fungal_trans [SEP] Dabb [SEP] Ldh_2 [SEP] adh_short_C2 [SEP] ILVD_EDD [SEP] Fungal_trans [SEP]

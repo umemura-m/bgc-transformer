@@ -1,0 +1,1 @@
+ArAE_2_N ArAE_2_N ArAE_2_N [SEP] Kp4 [SEP] DUF6640 [SEP] MS_channel [SEP] AMP-binding Condensation [SEP] p450 [SEP] Glyco_hydro_92N Glyco_hydro_92 [SEP] CBM_1 Glyco_hydro_6 [SEP] Glyco_hydro_88 [SEP] MFS_1 MFS_1 [SEP] Glyco_hydro_79C Glyco_hydro_79C Glyco_hydro_79C [SEP] HET [SEP] CBM_1 CBM_1 CBM_1 Cellulase [SEP] NmrA NmrA [SEP] Fungal_trans_2 [SEP] Fungal_trans_2 [SEP]

@@ -1,0 +1,9 @@
+#!/bin/bash -u
+
+set -euo pipefail
+
+./B02_rank_stats_wtag.py \
+  --pred ../../../models/model_IV_roberta_bacfun/every_domain_prediction.bacfun.csv \
+  --leak ../../../models/model_IV_roberta_bacfun/leakage.bacfun/mibig_eval_leakage_tags.csv \
+  --out ./
+
